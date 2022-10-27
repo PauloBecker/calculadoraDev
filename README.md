@@ -10,6 +10,6 @@
   
   2 - Se você já tiver o git instalado em seu computador, você pode fazer o clone do projeto remoto com o seguinte comando abaixo: 
   
-                                  git clone git@github.com:PauloBecker/calculadoraDev.git
+      git clone git@github.com:PauloBecker/calculadoraDev.git
 
   . Após feito os passos acima e ter baixado o projeto em seu computador, basta abrir a pasta em sua IDE de preferência.
