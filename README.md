@@ -8,7 +8,7 @@
 
   1 - Para baixar o arquivo zip: [clique aqui](https://github.com/PauloBecker/calculadoraDev/archive/refs/heads/main.zip)
   
-  2 - Se você já tiver o git instalado em seu computador, você pode fazer o clone do projeto com seguinte comando abaixo para SSH: 
+  2 - Se você já tiver o git instalado em seu computador, você pode fazer o clone do projeto remoto com o seguinte comando abaixo: 
   
                        git clone git@github.com:PauloBecker/calculadoraDev.git
 
